@@ -1,12 +1,12 @@
 ---
 layout: default
-title: unnamed mob2
+title: unnamed mob3
 nav_order: 1
 parent: Mobok
 ---
 ![image](/assets/img/default_mob.png){: style="float: left; margin: 5px 0px 5px 5px" }
 
-<div style="margin-left: auto; width: 45%; height: auto; background-color: #302d36; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); padding: 0.5rem 0.75rem;">
+<div style="margin-left: auto; width: 45%; margin-top: auto; background-color: #302d36; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); padding: 0.5rem 0.75rem;">
 			<h2>Mobname</h2>
 			<h3>Statok:</h3>
 			<p>HP: ???</p>
