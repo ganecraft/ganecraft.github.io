@@ -1,0 +1,37 @@
+---
+layout: default
+title: unnamed mob
+nav_order: 1
+parent: Mobok
+---
+![image](/assets/img/default_mob.png){: style="float: left; margin: 5px 20px 5px 5px" }
+## Mobname
+
+### Statok:
+HP: ???\
+DEF: ???
+
+### Támadóérték:
+Sebzés: ???\
+Armor átütés: ???%\
+Enchant átütés: ???%\
+Pajzs átütés: ???%\
+Pajzs cooldown: ??? mp
+
+### Védelem:
+Krit: ???%\
+Védelem: ???%\
+Lövedék védelem: ???%\
+Robbanás védelem: ???%\
+Tűz védelem: ???%\
+Zuhanás ellenállás: ???%
+
+### Drop:
+{: style="clear: left" }
+Szoc. kredit: ???\
+Exp: ???\
+Pénz: ???-???
+#### Tárgyak
+- ???
+- ???
+- ???
