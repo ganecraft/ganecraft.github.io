@@ -2,7 +2,12 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: ganecraft.github.io
+favicon_ico: "/assets/img/favicon.ico"
+color_scheme: dark
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Nekladek: https://nekladek.github.io
+  Youtube: https://www.youtube.com/channel/UCIYV0HSKkGdbRtjSnS9JiSQ
+
+aux_links_new_tab: true
