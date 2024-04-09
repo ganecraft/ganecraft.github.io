@@ -1,52 +1,79 @@
 ---
 layout: default
 title: Skeleton v2
-nav_order: 2
+nav_order: 6
+nav_exclude: true
 parent: Mobaréna 2
 grand_parent: Mobok
 ---
-![image](/assets/img/default_mob.png){: style="float: left; margin: 5px 5px 5px 5px" }
+<head>
+	<link rel="stylesheet" href="/assets/css/basics.css">
+</head>
 
-<div style="line-height: 0.5; margin-left: auto; width: 45%; background-color: #302d36; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); padding: 0.5rem 0.75rem;">
-	<h2>Mobaréna2 skeleton v2</h2>
+![image](/assets/img/mobs/mobarena2/m2skeleton2.png){: class="mob-image" }
+
+<div class="mob-div-description">
+	<h2>Skeleton v2</h2>
 	<h3><u>Statok</u>:</h3>
 	<br>
-	<p>Health: <span style="color: #c8ff00">5</span></p>
-	<p>Defense: <span style="color: #c8ff00">10</span></p>
+	<p>Életerő: <span class="mob-highlight">5</span></p>
+	<p>Védelem: <span class="mob-highlight">10</span></p>
 	<h3><u>Támadóérték</u>:</h3>
 	<br>
-	<p>Sebzés: <span style="color: #c8ff00">20</span></p>
-	<p>Armor átütés: <span style="color: #c8ff00">35</span> %</p>
-	<p>Enchant átütés: <span style="color: #c8ff00">10</span> %</p>
-	<p>Pajzs átütés: <span style="color: #c8ff00">10</span> %</p>
-	<p>Pajzs cooldown: <span style="color: #c8ff00">3</span> mp</p>
+	<p>Sebzés: <span class="mob-highlight">20</span></p>
+	<p>Armor átütés: <span class="mob-highlight">35</span> %</p>
+	<p>Enchant átütés: <span class="mob-highlight">10</span> %</p>
+	<p>Pajzs átütés: <span class="mob-highlight">10</span> %</p>
+	<p>Pajzs cooldown: <span class="mob-highlight">3</span> mp</p>
 	<h3><u>Védelem</u>:</h3>
 	<br>
-	<p>Krit: <span style="color: #c8ff00">20</span> %</p>
-	<p>Védelem: <span style="color: #c8ff00">30</span> %</p>
-	<p>Lövedék védelem: <span style="color: #c8ff00">35</span> %</p>
-	<p>Robbanás védelem: <span style="color: #c8ff00">10</span> %</p>
-	<p>Tűz védelem: <span style="color: #c8ff00">70</span> %</p>
-	<p>Zuhanás ellenállás: <span style="color: #c8ff00">50</span> %</p>
-	<h3>Extra:</h3>
-	<p>Kard: <span style="color: #c8ff00">40</span> %</p>
-	<p>Fejsze: <span style="color: #c8ff00">15</span> %</p>
-	<p>Mace: <span style="color: #c8ff00">90</span> %</p>
+	<p>Krit ellenállás: <span class="mob-highlight">20</span> %</p>
+	<p>Általános ellenállás: <span class="mob-highlight">30</span> %</p>
+	<p>Lövedék ellenállás: <span class="mob-highlight">35</span> %</p>
+	<p>Robbanás ellenállás: <span class="mob-highlight">10</span> %</p>
+	<p>Tűz ellenállás: <span class="mob-highlight">70</span> %</p>
+	<p>Zuhanás ellenállás: <span class="mob-highlight">50</span> %</p>
+	<h3><u>Extra</u>:</h3>
+	<br>
+	<p>Kard ellenállás: <span class="mob-highlight">40</span> %</p>
+	<p>Fejsze ellenállás: <span class="mob-highlight">15</span> %</p>
+	<p>Mace ellenállás: <span class="mob-highlight">90</span> %</p>
 </div>
 
-<table style="clear: left; line-height: 0.5;">
+<table class="mob-drops">
 	<tr>
 		<td>
 			<h3>Drop:</h3>
-			<br>
-			<p>Szoc. kredit: <span style="color: #c8ff00">1</span></p>
-			<p>Exp: <span style="color: #c8ff00">2.5</span></p>
-			<p>Pénz: <span style="color: #c8ff00">15-40</span></p>
 		</td>
 		<td>
 			<h3>Tárgyak:</h3>
-			<br>
-			<p style="color: #c8ff00">csont, nyíl, aranyalma, zöld könyv</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p>Szociális kredit: <span class="mob-highlight">1</span></p>
+			<p>Exp: <span class="mob-highlight">2.5</span></p>
+			<p>Pénz: <span class="mob-highlight">15-40</span></p>
+		</td>
+		<td>
+			<p class="mob-highlight">csont, nyíl, aranyalma, zöld könyv</p>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>
+			<h3>Egyéb:</h3>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li>Sokkal kisebb eséllyel dob csontot és nyilat, mint a vanilla skeleton.</li>
+				<li>Nem dobja ki a felszerelését; íjat sem.</li>
+				<li>Véletlenszerűen enchantolt felszereléssel spawnol.</li>
+			</ul>
 		</td>
 	</tr>
 </table>

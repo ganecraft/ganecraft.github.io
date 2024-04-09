@@ -1,8 +1,10 @@
 ---
 layout: default
-title: undefined mob
+title: Zombie v1
 nav_order: 1
-parent: Mobok
+nav_exclude: true
+parent: Mobaréna 2
+grand_parent: Mobok
 ---
 <head>
 	<link rel="stylesheet" href="/assets/css/basics.css">
@@ -11,7 +13,7 @@ parent: Mobok
 ![image](/assets/img/default_mob.png){: class="mob-image" }
 
 <div class="mob-div-description">
-	<h2>Undefined mob name</h2>
+	<h2>Zombie v1</h2>
 	<h3><u>Statok</u>:</h3>
 	<br>
 	<p>Életerő: <span class="mob-highlight">???</span></p>

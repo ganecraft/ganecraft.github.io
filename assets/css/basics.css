@@ -1,0 +1,30 @@
+.mob-highlight {
+	color: #c8ff00
+}
+
+.mob-image {
+	float: left;
+	margin: 5px;
+}
+
+.mob-div {
+	line-height: 0.5;
+	padding: 0.5rem 0.75rem;
+	margin-bottom: 1.5rem;
+	background-color: #302d36;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+.mob-div-description {
+	line-height: 0.5;
+	margin-left: auto;
+	padding: 0.5rem 0.75rem;
+	width: 45%;
+	background-color: #302d36;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+.mob-drops {
+	clear: left;
+	line-height: 0.5;
+}
