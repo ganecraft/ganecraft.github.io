@@ -13,25 +13,14 @@ has_children: false
 <br>
 ![image](/assets/img/dungeons/wither-dungeon.jpg)
 
-<div class="mob-div">
-	<p>NPC:</p>
-	<p>-</p>
-</div>
-
-<div class="mob-div">
-	<p>Normál mobok:</p>
-</div>
-
+<div class="mob-npc-div">
 <table>
 	<tr>
 		<td>
-			<ul>
-				<li><span class="mob-highlight">Wither katona v1</span></li>
-				<li><span class="mob-highlight">wither katona v2</span></li>
-				<li><span class="mob-highlight">-</span></li>
-				<li><span class="mob-highlight">-</span></li>
-			</ul>
+			<p>NPC:</p>
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<ul>
 				<li><span class="mob-highlight">-</span></li>
@@ -42,11 +31,31 @@ has_children: false
 		</td>
 	</tr>
 </table>
+</div>
 
-<div class="mob-div">
-	<p>Bossok:</p>
-	<br>
-	<ul>
-		<li><span class="mob-highlight">Wither</span></li>
-	</ul>
+<div class="mob-boss-div">
+<table>
+	<tr>
+		<td>
+			<p>Bossok:</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li><span class="mob-highlight">Wither</span></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+</div>
+
+<div class="mob-normal-div">
+	<p>Normál mobok:</p>
+	<div>
+		<ul>
+			<li><span class="mob-highlight">Wither katona v1</span></li>
+			<li><span class="mob-highlight">Wither katona v2</span></li>
+		</ul>
+	</div>
 </div>

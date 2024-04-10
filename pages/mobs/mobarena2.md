@@ -3,7 +3,7 @@ layout: default
 title: Mobaréna 2
 nav_order: 2
 parent: Mobok
-has_children: false
+has_toc: false
 ---
 <head>
 	<link rel="stylesheet" href="/assets/css/basics.css">
@@ -13,37 +13,57 @@ has_children: false
 <br>
 ![image](/assets/img/mobarenas/mobarena2.jpg)
 
-<div class="mob-div">
-	<p>NPC:</p>
-	<p>-</p>
-</div>
-
-<div class="mob-div">
-	<p>Normál mobok:</p>
-</div>
-
+<div class="mob-npc-div">
 <table>
 	<tr>
 		<td>
-			<ul>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/zombiev1.html">Zombie v1</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/skeletonv1.html">Skeleton v1</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/huskv1.html">Husk v1</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/w_skeletonv1.html">Wither skeleton v1</a></li>
-			</ul>
+			<p>NPC:</p>
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<ul>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/zombiev2.html">Zombie v2</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/skeletonv2.html">Skeleton v2</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/huskv2.html">Husk v2</a></li>
-				<li><a class="mob-highlight" href="/pages/mobs/mobarena2/w_skeletonv2.html">Wither skeleton v2</a></li>
+				<li><span class="mob-highlight">-</span></li>
 			</ul>
 		</td>
 	</tr>
 </table>
+</div>
 
-<div class="mob-div">
-	<p>Bossok:</p>
-	<p>-</p>
+<div class="mob-boss-div">
+<table>
+	<tr>
+		<td>
+			<p>Bossok:</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li><span class="mob-highlight">-</span></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+</div>
+
+
+<div class="mob-normal-div">
+	<p>Normál mobok:</p>
+	<div class="mob-normal-left-div">
+		<ul>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/zombiev1.html">Zombie v1</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/skeletonv1.html">Skeleton v1</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/huskv1.html">Husk v1</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/w_skeletonv1.html">Wither skeleton v1</a></li>
+		</ul>
+	</div>
+	<div class="mob-normal-right-div">
+		<ul>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/zombiev2.html">Zombie v2</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/skeletonv2.html">Skeleton v2</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/huskv2.html">Husk v2</a></li>
+			<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/w_skeletonv2.html">Wither skeleton v2</a></li>
+		</ul>
+	</div>
 </div>

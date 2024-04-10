@@ -3,8 +3,7 @@ layout: default
 title: Zombie v1
 nav_order: 1
 nav_exclude: true
-parent: Mobaréna 2
-grand_parent: Mobok
+parent: Mobok
 ---
 <head>
 	<link rel="stylesheet" href="/assets/css/basics.css">
@@ -14,6 +13,8 @@ grand_parent: Mobok
 
 <div class="mob-div-description">
 	<h2>Zombie v1</h2>
+	<br>
+	<p>Megtalálható: <a class="mob-link-highlight" href="/pages/mobs/mobarena2.html">Mobaréna 2</a></p>
 	<h3><u>Statok</u>:</h3>
 	<br>
 	<p>Életerő: <span class="mob-highlight">???</span></p>
