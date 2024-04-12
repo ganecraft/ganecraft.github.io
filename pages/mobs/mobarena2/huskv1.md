@@ -57,7 +57,7 @@ parent: Mobok
 			<p>Pénz: <span class="mob-highlight">???-???</span></p>
 		</td>
 		<td>
-			<p class="mob-highlight">???, ???, ???</p>
+			<p id="item-drops" class="mob-highlight"></p>
 		</td>
 	</tr>
 </table>
@@ -78,3 +78,9 @@ parent: Mobok
 	</tr>
 </table>
 
+
+<script>
+	itemDrops = ["Csont", "Nyíl", "Aranyalma", "Zöld könyv"];
+</script>
+<script src="/assets/script/links.js"></script>
+<script src="/assets/script/mob_item_link.js"></script>
