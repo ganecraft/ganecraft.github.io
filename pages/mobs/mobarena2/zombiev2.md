@@ -11,34 +11,36 @@ parent: Mobok
 
 ![image](/assets/img/default_mob.png){: class="mob-image" }
 
-<div class="mob-div-description">
-	<h2>Zombie v2</h2>
-	<br>
-	<p>Megtalálható: <a class="mob-link-highlight" href="/pages/mobs/mobarena2.html">Mobaréna 2</a></p>
-	<h3><u>Statok</u>:</h3>
-	<br>
-	<p>Életerő: <span class="mob-highlight">???</span></p>
-	<p>Védelem: <span class="mob-highlight">???</span></p>
-	<h3><u>Támadóérték</u>:</h3>
-	<br>
-	<p>Sebzés: <span class="mob-highlight">???</span></p>
-	<p>Armor átütés: <span class="mob-highlight">???</span> %</p>
-	<p>Enchant átütés: <span class="mob-highlight">???</span> %</p>
-	<p>Pajzs átütés: <span class="mob-highlight">???</span> %</p>
-	<p>Pajzs cooldown: <span class="mob-highlight">???</span> mp</p>
-	<h3><u>Védelem</u>:</h3>
-	<br>
-	<p>Krit ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>Általános ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>Lövedék ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>Robbanás ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>Tűz ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>Zuhanás ellenállás: <span class="mob-highlight">???</span> %</p>
-	<h3><u>Extra</u>:</h3>
-	<br>
-	<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
-	<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
+<div class="mob-div-description-flex">
+	<div class="mob-div-description">
+		<h2>Zombie v2</h2>
+		<br>
+		<p>Megtalálható: <a class="mob-link-highlight" href="/pages/mobs/mobarena2.html">Mobaréna 2</a></p>
+		<h3><u>Statok</u>:</h3>
+		<br>
+		<p>Életerő: <span class="mob-highlight">???</span></p>
+		<p>Védelem: <span class="mob-highlight">???</span></p>
+		<h3><u>Támadóérték</u>:</h3>
+		<br>
+		<p>Sebzés: <span class="mob-highlight">???</span></p>
+		<p>Armor átütés: <span class="mob-highlight">???</span> %</p>
+		<p>Enchant átütés: <span class="mob-highlight">???</span> %</p>
+		<p>Pajzs átütés: <span class="mob-highlight">???</span> %</p>
+		<p>Pajzs cooldown: <span class="mob-highlight">???</span> mp</p>
+		<h3><u>Védelem</u>:</h3>
+		<br>
+		<p>Krit ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>Általános ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>Lövedék ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>Robbanás ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>Tűz ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>Zuhanás ellenállás: <span class="mob-highlight">???</span> %</p>
+		<h3><u>Extra</u>:</h3>
+		<br>
+		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
+		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
+	</div>
 </div>
 
 <table class="mob-drops">
