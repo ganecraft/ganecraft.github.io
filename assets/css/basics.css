@@ -7,6 +7,14 @@
 	text-decoration: underline;
 }
 
+.mob-link-highlight:hover {
+	color: #88aa44;
+}
+
+.mob-link-highlight:active {
+	color: #4488aa;
+}
+
 .mob-image {
 	float: left;
 }
