@@ -40,7 +40,8 @@ has_toc: false
 	<tr>
 		<td>
 			<ul>
-				<li><span class="mob-highlight">-</span></li>
+				<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/exec1.html">Kivégző 1</a></li>
+				<li><a class="mob-link-highlight" href="/pages/mobs/mobarena2/exec2.html">Kivégző 2</a></li>
 			</ul>
 		</td>
 	</tr>
