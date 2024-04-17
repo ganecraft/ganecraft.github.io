@@ -9,10 +9,12 @@
 
 .mob-link-highlight:hover {
 	color: #88aa44;
+	text-decoration: none;
 }
 
 .mob-link-highlight:active {
 	color: #4488aa;
+	text-decoration: none;
 }
 
 .mob-image {
