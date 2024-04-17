@@ -20,7 +20,7 @@ parent: Mobok
 		<h3><u>Statok</u>:</h3>
 		<br>
 		<p>Életerő: <span class="mob-highlight">???</span></p>
-		<p>Védelem: <span class="mob-highlight">???</span></p>
+		<p>Védelem: <span class="mob-highlight">64</span> % (<span class="mob-highlight">20</span> armor + <span class="mob-highlight">8</span> toughness)</p>
 		<h3><u>Támadóérték</u>:</h3>
 		<br>
 		<p>Sebzés: <span class="mob-highlight">???</span></p>
