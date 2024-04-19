@@ -30,6 +30,7 @@ parent: Mobok
 		<p>Pajzs cooldown: <span class="mob-highlight">3</span> mp</p>
 		<h3><u>Védelem</u>:</h3>
 		<br>
+		<p>Hátralökés ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Krit ellenállás: <span class="mob-highlight">35</span> %</p>
 		<p>Általános ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Lövedék ellenállás: <span class="mob-highlight">20</span> %</p>
