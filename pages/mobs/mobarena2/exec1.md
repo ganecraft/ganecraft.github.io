@@ -21,6 +21,7 @@ parent: Mobok
 		<br>
 		<p>Életerő: <span class="mob-highlight">???</span></p>
 		<p>Védelem: <span class="mob-highlight">22</span> % (<span class="mob-highlight">11</span> armor)</p>
+		<p>Abszolút védelem: <span class="mob-highlight">2</span></p>
 		<h3><u>Támadóérték</u>:</h3>
 		<br>
 		<p>Sebzés: <span class="mob-highlight">???</span></p>
@@ -28,7 +29,7 @@ parent: Mobok
 		<p>Enchant átütés: <span class="mob-highlight">???</span> %</p>
 		<p>Pajzs átütés: <span class="mob-highlight">???</span> %</p>
 		<p>Pajzs cooldown: <span class="mob-highlight">???</span> mp</p>
-		<h3><u>Védelem</u>:</h3>
+		<h3><u>Ellenállások</u>:</h3>
 		<br>
 		<p>Krit ellenállás: <span class="mob-highlight">???</span> %</p>
 		<p>Általános ellenállás: <span class="mob-highlight">???</span> %</p>

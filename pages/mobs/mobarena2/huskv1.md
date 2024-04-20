@@ -28,7 +28,7 @@ parent: Mobok
 		<p>Enchant átütés: <span class="mob-highlight">0</span> %</p>
 		<p>Pajzs átütés: <span class="mob-highlight">0</span> %</p>
 		<p>Pajzs cooldown: <span class="mob-highlight">2</span> mp</p>
-		<h3><u>Védelem</u>:</h3>
+		<h3><u>Ellenállások</u>:</h3>
 		<br>
 		<p>Krit ellenállás: <span class="mob-highlight">15</span> %</p>
 		<p>Általános ellenállás: <span class="mob-highlight">10</span> %</p>
