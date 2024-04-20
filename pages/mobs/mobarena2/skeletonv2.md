@@ -25,8 +25,8 @@ parent: Mobok
 		<h3><u>Támadóérték</u>:</h3>
 		<br>
 		<p>Sebzés: <span class="mob-highlight">15</span></p>
-		<p>Armor átütés: <span class="mob-highlight">10</span> %</p>
-		<p>Enchant átütés: <span class="mob-highlight">5</span> %</p>
+		<p>Armor átütés: <span class="mob-highlight">5</span> %</p>
+		<p>Enchant átütés: <span class="mob-highlight">0</span> %</p>
 		<p>Pajzs átütés: <span class="mob-highlight">0</span> %</p>
 		<p>Pajzs cooldown: <span class="mob-highlight">3</span> mp</p>
 		<h3><u>Ellenállások</u>:</h3>
