@@ -31,16 +31,16 @@ parent: Mobok
 		<p>Pajzs cooldown: <span class="mob-highlight">3</span> mp</p>
 		<h3><u>Ellenállások</u>:</h3>
 		<br>
-		<p>Hátralökés ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Krit ellenállás: <span class="mob-highlight">35</span> %</p>
 		<p>Általános ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Lövedék ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Robbanás ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Tűz ellenállás: <span class="mob-highlight">70</span> %</p>
 		<p>Zuhanás ellenállás: <span class="mob-highlight">70</span> %</p>
-		<h3><u>Extra</u>:</h3>
 		<br>
+		<p>Hátralökés ellenállás: <span class="mob-highlight">20</span> %</p>
 		<p>Kard ellenállás: <span class="mob-highlight">30</span> %</p>
+		<br>
 	</div>
 </div>
 

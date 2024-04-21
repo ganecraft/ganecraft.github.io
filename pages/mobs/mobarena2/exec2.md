@@ -37,11 +37,11 @@ parent: Mobok
 		<p>Robbanás ellenállás: <span class="mob-highlight">???</span> %</p>
 		<p>Tűz ellenállás: <span class="mob-highlight">???</span> %</p>
 		<p>Zuhanás ellenállás: <span class="mob-highlight">???</span> %</p>
-		<h3><u>Extra</u>:</h3>
 		<br>
 		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
 		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
 		<p>??? ellenállás: <span class="mob-highlight">???</span> %</p>
+		<br>
 	</div>
 </div>
 

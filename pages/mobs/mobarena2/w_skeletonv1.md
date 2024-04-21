@@ -36,9 +36,9 @@ parent: Mobok
 		<p>Robbanás ellenállás: <span class="mob-highlight">15</span> %</p>
 		<p>Tűz ellenállás: <span class="mob-highlight">55</span> %</p>
 		<p>Zuhanás ellenállás: <span class="mob-highlight">70</span> %</p>
-		<h3><u>Extra</u>:</h3>
 		<br>
 		<p>Kard ellenállás: <span class="mob-highlight">20</span> %</p>
+		<br>
 	</div>
 </div>
 
