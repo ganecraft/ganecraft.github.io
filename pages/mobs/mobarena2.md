@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mobaréna 2
-nav_order: 2
+nav_order: 12
 parent: Mobok
 has_toc: false
 ---
@@ -68,3 +68,7 @@ has_toc: false
 		</ul>
 	</div>
 </div>
+
+<h2>Map</h2>
+<br>
+![image](/assets/img/mobarenas/mobarena2legacymap.jpg)
