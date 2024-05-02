@@ -72,3 +72,6 @@ has_toc: false
 <h3>1. szint</h3>
 <br>
 ![image](/assets/img/mobarenas/mobarena3tmap.png)
+<h3>2. szint</h3>
+<br>
+![image](/assets/img/mobarenas/mobarena3tmap2.png)
