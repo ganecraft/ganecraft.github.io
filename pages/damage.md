@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sebzés
-nav_order: 4
+nav_order: 14
 has_children: false
 has_toc: false
 ---

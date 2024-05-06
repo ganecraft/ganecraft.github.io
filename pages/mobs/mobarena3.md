@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobaréna 3
+title: Mobaréna 3 (Grotta)
 nav_order: 13
 parent: Mobok
 has_toc: false
@@ -9,9 +9,21 @@ has_toc: false
 	<link rel="stylesheet" href="/assets/css/basics.css">
 </head>
 
-<h2>Mobaréna 3</h2>
+<h2>Mobaréna 3 (Grotta)</h2>
 <br>
 ![image](/assets/img/mobarenas/mobarena3.jpg)
+
+<p>A grotta a többi mobarénával ellentétben több (3) szintből áll.</p>
+<blockquote>
+	<p>Egyre beljebb haladva a mobok ereje változik.</p>
+	<ol>
+		<li>A mobok hasonló erejűek, mint a mobaréna 2 v2-es mobok.</li>
+		<li>Erősebbek, mint az első szint; sok mobnak van shield, armor és enchant átütése.</li>
+		<li>Csak megfelelő ellenállásokkal és min. védelem 8-9 gyémánt vagy netherite armorral éri meg belépni. A 3. szint mobjai sokkal több időre ütik ki a shieldet.</li>
+	</ol>
+</blockquote>
+<br>
+<p>Nem csak a termekben, hanem hosszabb folyosókon is spawnolnak mobok.</p>
 
 <div class="mob-npc-div">
 <table>
