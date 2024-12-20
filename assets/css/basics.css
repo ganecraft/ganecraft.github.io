@@ -56,8 +56,8 @@
 
 .mob-boss-div {
 	width: 50%;
-	margin-left: auto;
-	margin-top: 1.5rem;
+	float: left;
+
 }
 
 .mob-normal-div {

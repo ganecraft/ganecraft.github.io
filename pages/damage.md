@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sebzés
-nav_order: 14
+nav_order: 130
 has_children: false
 has_toc: false
 ---
@@ -10,6 +10,13 @@ has_toc: false
 		input[type='number'] { width: 4em; }
 	</style>
 </head>
+
+Abszolút védelem
+Csak a következő sebzés típusok ellen működik:
+- közvetlen ütés vagy sweep sebzés
+- lövedékek
+- robbanás
+- villámlás
 
 Sebzés
 
