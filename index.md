@@ -25,7 +25,7 @@ nav_order: 1
 		<td>
 			<img src="/assets/img/icons/heart_of_the_sea.png">
 			<br>
-			<a class="mob-link-highlight" href="index.html">Hitbonus</a>
+			<a class="mob-link-highlight" href="/pages/hitbonus.html">Hitbonus</a>
 		</td>
 	</tr>
 	<tr>
