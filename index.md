@@ -59,7 +59,7 @@ nav_order: 1
 		<td>
 			<img src="/assets/img/icons/placeholder.png">
 			<br>
-			<a class="mob-link-highlight" href="index.html">NPCs</a>
+			<a class="mob-link-highlight" href="/pages/npc.html">NPCs</a>
 		</td>
 	</tr>
 </table>

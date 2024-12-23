@@ -3,7 +3,7 @@ description: Nova wikipédia
 theme: just-the-docs
 
 url: ganecraft.github.io
-favicon_ico: "/assets/img/favicon.ico"
+favicon_ico: "favicon.ico"
 color_scheme: dark
 
 aux_links:

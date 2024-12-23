@@ -1,3 +1,16 @@
+.npc-div {
+	display: flex;
+}
+
+.npc-div-bottom {
+	display: flex;
+	align-items: end;
+}
+
+.npc-image {
+	margin: 2%;
+}
+
 .mob-highlight {
 	color: #c8ff00;
 }
