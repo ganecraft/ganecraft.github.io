@@ -34,9 +34,9 @@ There are places which players can only reach when teleporting via NPCs.
 <img class="npc-image" src="/assets/img/npc/npc2.jpg">
 </div>
 
-<div class="npc-div-bottom">
-<img class="npc-image" src="/assets/img/npc/npc_dialog.jpg">
+<hr>
+
 <p>
 (Example of NPC GUI.)
 </p>
-</div>
+<img class="npc-image" src="/assets/img/npc/npc_dialog.jpg">

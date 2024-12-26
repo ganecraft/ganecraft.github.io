@@ -1,55 +1,66 @@
 ---
 layout: default
-title: Tweakek
+title: Tweaks
 nav_order: 11
 has_children: false
 has_toc: false
 ---
-## Tweakek:
-> Régi hp regen (1 hp 4 másodpercenként)
-<br>
-> A hp 16 kaja fölött regenerál 18 helyett (2 hiányzó cupák kell a hp regen befejeződéséhez 1 helyett)
-<br>
-> A hp nem regenerál ha a playeren mérgezés van.
-<br>
-> A mobok csak akkor dobnak lootot, ha player öli meg őket.
-<br>
-> Alvás és trade újratöltés után a villagerek hp-t regenerálnak.
-<br>
-> Kaptár elhagyás után a méhek kevés hp-t visszatöltenek. Nem halnak meg, ha elvesztik a fullánkjukat, kis idő után egyszerűen visszanő (+ hangeffekt).
-<br>
-> A méhek nem sebződnek, ha vízzel érintkeznek.
-<br>
-> Berrybush nem sebez, ha sneakelve mennek át rajta.
-<br>
-> End kristály, villámlás és a netherben történő ágy robbanás nem gyújt meg random környező blokkokat.
-<br>
-> Blokk (pl. ágy, respawn anchor) és mob robbanások nem robbantanak ki blokkokat.
-<br>
-> Mobok nem tudnak blokkokat megváltoztatni, kivéve: falusi, bárány, nyúl, silverfish.
-<br>
-> A(z) (erdő)tüzek sokkal hamarabb kialszanak.
-<br>
-> A termőföldet nem lehet kiugrálni.
-<br>
-> A kiütött blokkokon nincs pickup delay, és 10 mp-ig csak az tudja felvenni, aki kütötte.
-<br>
-> A kiütött blokkokból az xp nem esik ki a földre, azonnal megkapja a player.
-<br>
-> Ollón a szerencse enchant (fortune) és luck (poti effekt) befolyásolja mennyi gyapjat adnak a birkák.
-<br>
-> A Withert nem lehet lespawnolni. Idézéskor csak egy nether csillag esik ki, ami a Wither kupolához belépő item.
-<br>
-> Kilépéskor a player leszáll a mountról és az a játékban marad.
-<br>
-> Enchantolni annyi szintbe kerül amekkora szintű maga az enchant. (Egy level 30 enchant 30 szintet vesz le nem 3-mat.)
-<br>
-> Nem lehet megnézni milyen enchantot fognak kapni az itemek; az enchant asztal mindig luck of the sea 9-et mutat.
-<br>
-> Az elnevezett mobok neveit lehet festékekkel szinezni. Ezt követően a nevük mindig láthatóvá válik.
-> Vízbe/víz alatt nem lehet letenni levegő buborékot létrehozó itemet. Pl. banner, kerítés kapu, ajtó stb.
-<br>
+<head>
+	<link rel="stylesheet" href="/assets/css/basics.css">
+</head>
 
+## Tweaks:
+
+<div class="box-div">
+<p class="box-text">
+Below is the list of changes/tweaks in which the server <span class="mob-highlight">differs from the vanilla game.</span>
+</p>
+</div>
+
+### Dungeon stuff
 <blockquote>
-	<p>fing</p>
+	<p>Wither can't be spawned. Drops the star instead which is an item required for dungeon entry.</p>
 </blockquote>
+
+<hr>
+
+### Player stuff
+<blockquote>
+	<p>Oldschool HP regen (1 hp <img src="/assets/img/icons/heart_half.png"> every 4 seconds).</p>
+	<p>HP regen stops at 2 missing chops <img src="/assets/img/icons/food_full.png"> instead of the vanilla 1.</p>
+	<p>Player HP does not regenerate when the player is poisoned.</p>
+	<p>Berrybushes <img src="/assets/img/icons/sweet_berry_bush.png"> don't damage players if they sneak through them.</p>
+	<p>Mobs only drop loot if killed by players.</p>
+	<p>Mined blocks don't have pickup delay and can only be picked up by the miner for 10 seconds.</p>
+	<p>Mined block xp goes immediately to the player, does not produce orbs.</p>
+</blockquote>
+
+<hr>
+
+### Enchant
+<blockquote>
+	<p>Oldschool enchant system - level 30 enchant takes 30 levels.</p>
+	<p>Oldschool enchant system - enchants can't be previewed (always shows channeling IX).</p>
+	<p><a class="mob-link-highlight" href="greenbook.html"><img src="/assets/img/icons/knowledge_book.png"></a> <a class="mob-link-highlight" href="greenbook.html">Greenbook system.</a></p>
+</blockquote>
+
+<hr>
+
+### Random stuff
+<blockquote>
+	<p>Sheeps don't drop wool when killed, only when sheared.</p>
+	<p>Fortune on shears and the luck status effect affects the amount of wool sheeps drop when sheared.</p>
+	<p>Fires go out much quicker.</p>
+	<p>Farmland can't be trampled.</p>
+	<p>Mobs can't modify blocks except: villagers, sheep, rabbit and silverfish.</p>
+	<p>End crystal, lightning and nether bed explosions don't ignite blocks.</p>
+	<p>Block and mob explosions don't destroy blocks (TNT does).</p>
+	<p>Villagers regen HP after sleeping or restocking their trades.</p>
+	<p>Bees regenerate a little when leaving the hive.</p>
+	<p>Bees regrow stingers instead of dying.</p>
+	<p>Bees don't get damaged by water, only if drowning.</p>
+	<p>When a player quits he's demounted from any mob or boat.</p>
+	<p>Items/blocks that would create air bubbles underwater can not be placed.</p>
+</blockquote>
+
+<hr>

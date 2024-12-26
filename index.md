@@ -15,7 +15,7 @@ nav_order: 1
 		<td>
 			<img src="/assets/img/icons/knowledge_book.png">
 			<br>
-			<a class="mob-link-highlight" href="index.html">Enchant system</a>
+			<a class="mob-link-highlight" href="/pages/greenbook.html">Enchant system</a>
 		</td>
 		<td>
 			<img src="/assets/img/icons/netherite_helmet.png">
@@ -40,7 +40,7 @@ nav_order: 1
 			<a class="mob-link-highlight" href="index.html">Mobarena</a>
 		</td>
 		<td>
-			<img src="/assets/img/icons/placeholder.png">
+			<img src="/assets/img/icons/dungeons_icon.png">
 			<br>
 			<a class="mob-link-highlight" href="index.html">Dungeons</a>
 		</td>
@@ -57,7 +57,7 @@ nav_order: 1
 			<a class="mob-link-highlight" href="index.html">Market</a>
 		</td>
 		<td>
-			<img src="/assets/img/icons/placeholder.png">
+			<img src="/assets/img/icons/npc.png">
 			<br>
 			<a class="mob-link-highlight" href="/pages/npc.html">NPCs</a>
 		</td>

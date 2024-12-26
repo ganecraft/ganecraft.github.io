@@ -26,6 +26,7 @@ When adding hitbonus to the weapon one of the bonuses is rolled to be the positi
 </div>
 
 ### Applying
+<br>
 <div class="box-div">
 <p class="box-text">
 To add hitbonus you'll need a bonus adder, a trim template of any kind and the weapon you want to apply it to.
