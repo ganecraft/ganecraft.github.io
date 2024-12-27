@@ -8,6 +8,10 @@
 	margin: 0.75rem;
 }
 
+.ext-link:after {
+	content: '⧉';
+}
+
 .npc-div {
 	display: flex;
 }

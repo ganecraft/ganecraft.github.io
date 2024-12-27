@@ -41,14 +41,14 @@ Below is the list of changes/tweaks in which the server <span class="mob-highlig
 <blockquote>
 	<p>Oldschool enchant system - level 30 enchant takes 30 levels.</p>
 	<p>Oldschool enchant system - enchants can't be previewed (always shows channeling IX).</p>
-	<p><a class="mob-link-highlight" href="greenbook.html"><img src="/assets/img/icons/knowledge_book.png"></a> <a class="mob-link-highlight" href="greenbook.html">Greenbook system.</a></p>
+	<p><a class="mob-link-highlight" href="greenbook.html"><img src="/assets/img/icons/knowledge_book.png"></a> <a class="mob-link-highlight" href="greenbook.html">Greenbook system.</a><a class="ext-link"></a></p>
 </blockquote>
 
 <hr>
 
 ### Random stuff
 <blockquote>
-	<p>Sheeps don't drop wool when killed, only when sheared.</p>
+	<p>Sheep don't drop wool when killed, only when sheared.</p>
 	<p>Fortune on shears and the luck status effect affects the amount of wool sheeps drop when sheared.</p>
 	<p>Fires go out much quicker.</p>
 	<p>Farmland can't be trampled.</p>
