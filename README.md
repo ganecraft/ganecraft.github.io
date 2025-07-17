@@ -1,2 +1,2 @@
 # ganecraft.github.io
-Gané kraft
+Gané kraft wiki
