@@ -1,7 +1,9 @@
 const links = [];
-links["ZÖLD KÖNYV"] =			"/pages/items/greenbook.html";
-links["ARANYALMA"] =			"/pages/items/gapple.html";
-links["ENCHANTOLT ARANYALMA"] =	"/pages/items/e_gapple.html";
+links["MOBARENA 2"] =			"/pages/mobs/mobarena2.html";
+
+links["GREENBOOK"] =			"/pages/items/greenbook.html";
+links["GOLDEN APPLE"] =			"/pages/items/gapple.html";
+links["ENCHANTOLT GOLDEN APPLE"] ="/pages/items/e_gapple.html";
 
 links["ZOMBIE V1"] =			"/pages/mobs/mobarena2/zombiev1.html"
 links["SKELETON V1"] =			"/pages/mobs/mobarena2/skeletonv1.html"

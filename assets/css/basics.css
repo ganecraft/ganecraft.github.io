@@ -136,3 +136,12 @@
 .dropped-by {
 	clear: left;
 }
+
+.mob-atr {
+	color: #c8ff00;
+}
+
+.atr-health {
+	color: #c8ff00;
+	content: 'Health: ';
+}

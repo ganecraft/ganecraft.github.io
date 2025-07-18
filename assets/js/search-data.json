@@ -204,81 +204,74 @@
   },"29": {
     "doc": "Skeleton v2",
     "title": "Skeleton v2",
-    "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 25 . Védelem: 64 % (20 armor + 8 toughness) . Abszolút védelem: 2 . Támadóérték: . Sebzés: 15 . Armor átütés: 5 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 3 mp . Ellenállások: . Krit ellenállás: 35 % . Általános ellenállás: 20 % . Lövedék ellenállás: 20 % . Robbanás ellenállás: 20 % . Tűz ellenállás: 55 % . Zuhanás ellenállás: 70 % . Kard ellenállás: 30 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-40 . | . | . | Egyéb: . | . | . | Sokkal kisebb eséllyel dob csontot és nyilat, mint a vanilla skeleton. | Nem dobja ki a felszerelését; íjat sem. | Véletlenszerűen enchantolt felszereléssel spawnol. | . | . ",
-    "url": "/pages/mobs/mobarena2/skeletonv2.html",
-    
-    "relUrl": "/pages/mobs/mobarena2/skeletonv2.html"
-  },"30": {
-    "doc": "Skeleton v2",
-    "title": "Skeleton v2",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/skeletonv2.html"
-  },"31": {
+  },"30": {
     "doc": "Tweaks",
     "title": "Tweaks:",
     "content": "Below is the list of changes/tweaks in which the server differs from the vanilla game. Dungeon stuff . Wither can't be spawned. Drops the star instead which is an item required for dungeon entry. Player stuff . Oldschool HP regen (1 hp every 4 seconds). HP regen stops at 2 missing chops instead of the vanilla 1. Player HP does not regenerate when the player is poisoned. Berrybushes don't damage players if they sneak through them. Mobs only drop loot if killed by players. Mined blocks don't have pickup delay and can only be picked up by the miner for 10 seconds. Mined block xp goes immediately to the player, does not produce orbs. Enchant . Oldschool enchant system - level 30 enchant takes 30 levels. Oldschool enchant system - enchants can't be previewed (always shows channeling IX). Greenbook system. Crafting . Enchanted golden apples can be crafted. Colored terracotta can be crafted back into plain terracotta. Netherite ingots can be crafted back into 4 netherite scraps (no gold). Random stuff . Sheep don't drop wool when killed, only when sheared. Fortune on shears and the luck status effect affects the amount of wool sheeps drop when sheared. Fires go out much quicker. Farmland can't be trampled. Mobs can't modify blocks except: villagers, sheep, rabbit and silverfish. End crystal, lightning and nether bed explosions don't ignite blocks. Block and mob explosions don't destroy blocks (TNT does). Villagers regen HP after sleeping or restocking their trades. Bees regenerate a little when leaving the hive. Bees regrow stingers instead of dying. Bees don't get damaged by water, only if drowning. When a player quits he's demounted from any mob or boat. Items/blocks that would create air bubbles underwater can not be placed. ",
     "url": "/pages/tweaks.html#tweaks",
     
     "relUrl": "/pages/tweaks.html#tweaks"
-  },"32": {
+  },"31": {
     "doc": "Tweaks",
     "title": "Tweaks",
     "content": "| . ",
     "url": "/pages/tweaks.html",
     
     "relUrl": "/pages/tweaks.html"
-  },"33": {
+  },"32": {
     "doc": "Wither skeleton v1",
     "title": "Wither skeleton v1",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 25 . Védelem: 30 % (15 armor) . Támadóérték: . Sebzés: 10 . Armor átütés: 0 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 2 mp . Ellenállások: . Krit ellenállás: 30 % . Általános ellenállás: 10 % . Lövedék ellenállás: 10 % . Robbanás ellenállás: 15 % . Tűz ellenállás: 55 % . Zuhanás ellenállás: 70 % . Kard ellenállás: 20 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 3 . Pénz: 20-35 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv1.html"
-  },"34": {
+  },"33": {
     "doc": "Wither skeleton v1",
     "title": "Wither skeleton v1",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv1.html"
-  },"35": {
+  },"34": {
     "doc": "Wither skeleton v2",
     "title": "Wither skeleton v2",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 30 . Védelem: 64 % (20 armor + 8 toughness) . Abszolút védelem: 5 . Támadóérték: . Sebzés: 15 . Armor átütés: 10 % . Enchant átütés: 5 % . Pajzs átütés: 5 % . Pajzs cooldown: 3 mp . Ellenállások: . Krit ellenállás: 35 % . Általános ellenállás: 20 % . Lövedék ellenállás: 20 % . Robbanás ellenállás: 20 % . Tűz ellenállás: 70 % . Zuhanás ellenállás: 70 % . Hátralökés ellenállás: 20 % . Kard ellenállás: 30 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 3 . Pénz: 25-50 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv2.html"
-  },"36": {
+  },"35": {
     "doc": "Wither skeleton v2",
     "title": "Wither skeleton v2",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv2.html"
-  },"37": {
+  },"36": {
     "doc": "Zombie v1",
     "title": "Zombie v1",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 20 . Védelem: 30 % (15 armor) . Támadóérték: . Sebzés: 8 . Armor átütés: 0 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 2 mp . Ellenállások: . Krit ellenállás: 10 % . Általános ellenállás: 10 % . Lövedék ellenállás: 10 % . Robbanás ellenállás: 15 % . Tűz ellenállás: 30 % . Zuhanás ellenállás: 50 % . Kard ellenállás: 20 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-25 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/zombiev1.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev1.html"
-  },"38": {
+  },"37": {
     "doc": "Zombie v1",
     "title": "Zombie v1",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/zombiev1.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev1.html"
-  },"39": {
+  },"38": {
     "doc": "Zombie v2",
     "title": "Zombie v2",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 25 . Védelem: 64 % (20 armor + 8 toughness) . Abszolút védelem: 2 . Támadóérték: . Sebzés: 15 . Armor átütés: 5 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 3 mp . Ellenállások: . Krit ellenállás: 35 % . Általános ellenállás: 20 % . Lövedék ellenállás: 20 % . Robbanás ellenállás: 20 % . Tűz ellenállás: 55 % . Zuhanás ellenállás: 70 % . Kard ellenállás: 30 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-40 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/zombiev2.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev2.html"
-  },"40": {
+  },"39": {
     "doc": "Zombie v2",
     "title": "Zombie v2",
     "content": "| . ",
