@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Home",
     "title": "Home",
-    "content": "| . | Enchant system | Netherite upgrade | Hitbonus | . | Damage system | Mobarena | Mobarena2 | . | Mobarena3 | Dungeons | Land claim | . | Market | NPCs | . ",
+    "content": "| . Info map test . | Enchant system | Netherite upgrade | Hitbonus | . | Damage system | Mobarena | Mobarena2 | . | Mobarena3 | Dungeons | Land claim | . | Market | NPCs | . ",
     "url": "/",
     
     "relUrl": "/"
@@ -125,153 +125,160 @@
     
     "relUrl": "/pages/items.html"
   },"18": {
+    "doc": "mapclicktest",
+    "title": "mapclicktest",
+    "content": "| . Mobarena v2 mob Mobarena v2 mob Mobarena v2 mob Capital ",
+    "url": "/pages/mapclicktest.html",
+    
+    "relUrl": "/pages/mapclicktest.html"
+  },"19": {
     "doc": "Mobaréna 2",
     "title": "Mobaréna 2",
     "content": ". | NPC: . | . | . | - | . | . | Bossok: . | . | . | Kivégző 1 | Kivégző 2 | . | . Normál mobok: . | Zombie v1 | Skeleton v1 | Husk v1 | Wither skeleton v1 | . | Zombie v2 | Skeleton v2 | Husk v2 | Wither skeleton v2 | . ",
     "url": "/pages/mobs/mobarena2.html",
     
     "relUrl": "/pages/mobs/mobarena2.html"
-  },"19": {
+  },"20": {
     "doc": "Mobaréna 2",
     "title": "Map",
     "content": ". ",
     "url": "/pages/mobs/mobarena2.html",
     
     "relUrl": "/pages/mobs/mobarena2.html"
-  },"20": {
+  },"21": {
     "doc": "Mobaréna 2",
     "title": "Mobaréna 2",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2.html",
     
     "relUrl": "/pages/mobs/mobarena2.html"
-  },"21": {
+  },"22": {
     "doc": "Mobaréna 3 (Grotta)",
     "title": "Mobaréna 3 (Grotta)",
     "content": ". A grotta a többi mobarénával ellentétben több (3) szintből áll. Egyre beljebb haladva a mobok ereje változik. | A mobok hasonló erejűek, mint a mobaréna 2 v2-es mobok. | Erősebbek, mint az első szint; sok mobnak van shield, armor és enchant átütése. | Csak megfelelő ellenállásokkal és min. védelem 8-9 gyémánt vagy netherite armorral éri meg belépni. A 3. szint mobjai sokkal több időre ütik ki a shieldet. | . Nem csak a termekben, hanem hosszabb folyosókon is spawnolnak mobok. | NPC: . | . | . | ??? | . | . | Bossok: . | . | . | ??? | . | . Normál mobok: . | ??? | ??? | ??? | ??? | . | ??? | ??? | ??? | ??? | . ",
     "url": "/pages/mobs/mobarena3.html",
     
     "relUrl": "/pages/mobs/mobarena3.html"
-  },"22": {
+  },"23": {
     "doc": "Mobaréna 3 (Grotta)",
     "title": "Map",
     "content": "1. szint . 2. szint . ",
     "url": "/pages/mobs/mobarena3.html",
     
     "relUrl": "/pages/mobs/mobarena3.html"
-  },"23": {
+  },"24": {
     "doc": "Mobaréna 3 (Grotta)",
     "title": "Mobaréna 3 (Grotta)",
     "content": "| . ",
     "url": "/pages/mobs/mobarena3.html",
     
     "relUrl": "/pages/mobs/mobarena3.html"
-  },"24": {
+  },"25": {
     "doc": "Mobok",
     "title": "Mobok",
     "content": "All mobs and their stats and drops. ",
     "url": "/pages/mobs.html",
     
     "relUrl": "/pages/mobs.html"
-  },"25": {
+  },"26": {
     "doc": "Netherite upgrade",
     "title": "Netherite upgrade",
     "content": "| . Rarity change . Netherite gear are harder to make because they count as late mid/endgame items. The amount of netherite required is much higher and it's difficult to mine in the nether, since the blast resistance of common nether blocks have been increased. However, netherite (debris, scrap and sometimes ingots) can be obtained from mob drops and from boss or event chests. This results in netherite gear being more rare and makes netherite a sought after crafting material. Netherite upgrade . The gear upgrade process has been changed so netherite upgrade smithing templates have to be crafted and can not be found in bastion chests anymore. Making one requires netherite and diamond blocks and also a trim template other than the upgrade template. The upgrade smithing templates can not be doubled, it always requires an additional trim template to create one. Blast resistance of blocks in the nether is increased, and beds don't explode. With this change mining netherite via explosions is very tedious and probably isn't worth it with TNT. Loot . Other than pick mining in the nether for ancient debris netherite can be obtained from the following: . Containers . | Wooden box, Wither lootbag, Upgraded halloween chest . | . Mobs . | Wither, Mobarena2 executioner, Mobarena3 mobs . | . ",
     "url": "/pages/netherite_upgrade.html",
     
     "relUrl": "/pages/netherite_upgrade.html"
-  },"26": {
+  },"27": {
     "doc": "NPCs",
     "title": "NPCs",
     "content": "| . NPCs . NPCs are non-player characters that usually can be interacted with. Most of them have dialogs, although there are NPCs whose primary function is just to exist as ambient entities. They can't be moved, pushed, leashed or put in boats or minecarts. NPCs don't take any damage and do not attack players, even if the NPC entity is a hostile mob. Function . Other than 'talking' NPCs can do things like trading items or teleporting the player. The dialog (which is a book GUI) in this case has clickable buttons. Keep in mind this usually costs items and/or money. There are places which players can only reach when teleporting via NPCs. Ambient NPCs . With some exceptions ambient NPCs are NPCs who can't be interacted with. They either don't have any dialog or very minimal (1 word or sentence). These NPCs' function is to make the world look more alive. (Example of NPC GUI.) . ",
     "url": "/pages/npc.html",
     
     "relUrl": "/pages/npc.html"
-  },"27": {
+  },"28": {
     "doc": "Skeleton v1",
     "title": "Skeleton v1",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 20 . Védelem: 30 % (15 armor) . Támadóérték: . Sebzés: 8 . Armor átütés: 0 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 2 mp . Ellenállások: . Krit ellenállás: 10 % . Általános ellenállás: 10 % . Lövedék ellenállás: 10 % . Robbanás ellenállás: 15 % . Tűz ellenállás: 30 % . Zuhanás ellenállás: 50 % . Kard ellenállás: 20 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-25 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/skeletonv1.html"
-  },"28": {
+  },"29": {
     "doc": "Skeleton v1",
     "title": "Skeleton v1",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/skeletonv1.html"
-  },"29": {
+  },"30": {
     "doc": "Skeleton v2",
     "title": "Skeleton v2",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/skeletonv2.html"
-  },"30": {
+  },"31": {
     "doc": "Tweaks",
     "title": "Tweaks:",
     "content": "Below is the list of changes/tweaks in which the server differs from the vanilla game. Dungeon stuff . Wither can't be spawned. Drops the star instead which is an item required for dungeon entry. Player stuff . Oldschool HP regen (1 hp every 4 seconds). HP regen stops at 2 missing chops instead of the vanilla 1. Player HP does not regenerate when the player is poisoned. Berrybushes don't damage players if they sneak through them. Mobs only drop loot if killed by players. Mined blocks don't have pickup delay and can only be picked up by the miner for 10 seconds. Mined block xp goes immediately to the player, does not produce orbs. Enchant . Oldschool enchant system - level 30 enchant takes 30 levels. Oldschool enchant system - enchants can't be previewed (always shows channeling IX). Greenbook system. Crafting . Enchanted golden apples can be crafted. Colored terracotta can be crafted back into plain terracotta. Netherite ingots can be crafted back into 4 netherite scraps (no gold). Random stuff . Sheep don't drop wool when killed, only when sheared. Fortune on shears and the luck status effect affects the amount of wool sheeps drop when sheared. Fires go out much quicker. Farmland can't be trampled. Mobs can't modify blocks except: villagers, sheep, rabbit and silverfish. End crystal, lightning and nether bed explosions don't ignite blocks. Block and mob explosions don't destroy blocks (TNT does). Villagers regen HP after sleeping or restocking their trades. Bees regenerate a little when leaving the hive. Bees regrow stingers instead of dying. Bees don't get damaged by water, only if drowning. When a player quits he's demounted from any mob or boat. Items/blocks that would create air bubbles underwater can not be placed. ",
     "url": "/pages/tweaks.html#tweaks",
     
     "relUrl": "/pages/tweaks.html#tweaks"
-  },"31": {
+  },"32": {
     "doc": "Tweaks",
     "title": "Tweaks",
     "content": "| . ",
     "url": "/pages/tweaks.html",
     
     "relUrl": "/pages/tweaks.html"
-  },"32": {
+  },"33": {
     "doc": "Wither skeleton v1",
     "title": "Wither skeleton v1",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 25 . Védelem: 30 % (15 armor) . Támadóérték: . Sebzés: 10 . Armor átütés: 0 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 2 mp . Ellenállások: . Krit ellenállás: 30 % . Általános ellenállás: 10 % . Lövedék ellenállás: 10 % . Robbanás ellenállás: 15 % . Tűz ellenállás: 55 % . Zuhanás ellenállás: 70 % . Kard ellenállás: 20 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 3 . Pénz: 20-35 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv1.html"
-  },"33": {
+  },"34": {
     "doc": "Wither skeleton v1",
     "title": "Wither skeleton v1",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv1.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv1.html"
-  },"34": {
+  },"35": {
     "doc": "Wither skeleton v2",
     "title": "Wither skeleton v2",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 30 . Védelem: 64 % (20 armor + 8 toughness) . Abszolút védelem: 5 . Támadóérték: . Sebzés: 15 . Armor átütés: 10 % . Enchant átütés: 5 % . Pajzs átütés: 5 % . Pajzs cooldown: 3 mp . Ellenállások: . Krit ellenállás: 35 % . Általános ellenállás: 20 % . Lövedék ellenállás: 20 % . Robbanás ellenállás: 20 % . Tűz ellenállás: 70 % . Zuhanás ellenállás: 70 % . Hátralökés ellenállás: 20 % . Kard ellenállás: 30 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 3 . Pénz: 25-50 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv2.html"
-  },"35": {
+  },"36": {
     "doc": "Wither skeleton v2",
     "title": "Wither skeleton v2",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/w_skeletonv2.html",
     
     "relUrl": "/pages/mobs/mobarena2/w_skeletonv2.html"
-  },"36": {
+  },"37": {
     "doc": "Zombie v1",
     "title": "Zombie v1",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 20 . Védelem: 30 % (15 armor) . Támadóérték: . Sebzés: 8 . Armor átütés: 0 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 2 mp . Ellenállások: . Krit ellenállás: 10 % . Általános ellenállás: 10 % . Lövedék ellenállás: 10 % . Robbanás ellenállás: 15 % . Tűz ellenállás: 30 % . Zuhanás ellenállás: 50 % . Kard ellenállás: 20 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-25 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/zombiev1.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev1.html"
-  },"37": {
+  },"38": {
     "doc": "Zombie v1",
     "title": "Zombie v1",
     "content": "| . ",
     "url": "/pages/mobs/mobarena2/zombiev1.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev1.html"
-  },"38": {
+  },"39": {
     "doc": "Zombie v2",
     "title": "Zombie v2",
     "content": "Megtalálható: Mobaréna 2 . Típus: UNDEAD . Statok: . Életerő: 25 . Védelem: 64 % (20 armor + 8 toughness) . Abszolút védelem: 2 . Támadóérték: . Sebzés: 15 . Armor átütés: 5 % . Enchant átütés: 0 % . Pajzs átütés: 0 % . Pajzs cooldown: 3 mp . Ellenállások: . Krit ellenállás: 35 % . Általános ellenállás: 20 % . Lövedék ellenállás: 20 % . Robbanás ellenállás: 20 % . Tűz ellenállás: 55 % . Zuhanás ellenállás: 70 % . Kard ellenállás: 30 % . | Drop: . | Tárgyak: . | . | Szociális kredit: 1 . Exp: 2.5 . Pénz: 10-40 . | . | . | Egyéb: . | . | . | ??? | ??? | . | . ",
     "url": "/pages/mobs/mobarena2/zombiev2.html",
     
     "relUrl": "/pages/mobs/mobarena2/zombiev2.html"
-  },"39": {
+  },"40": {
     "doc": "Zombie v2",
     "title": "Zombie v2",
     "content": "| . ",
