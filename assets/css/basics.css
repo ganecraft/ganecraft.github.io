@@ -1,18 +1,37 @@
+.map-container {
+  position: relative;
+  width: 100%;
+  max-width: 1536px;
+  margin: 0 auto;
+}
+
+.info-box {
+  position: absolute;
+  display: none;
+  min-width: 200px;
+  max-width: 300px;
+  padding: 15px;
+  background: #595463;
+  border: 2px solid #333;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  z-index: 100;
+}
+
 .mob-marker-circle {
-	r: 10;
 	fill: #ff0;
 	opacity: 0.8;
 	stroke: #000;
 	stroke-width: 3;
+	cursor: pointer;
 }
 
 .mob-marker-rectangle {
-	width: 15px;
-	height: 15px;
 	fill: #0f0;
 	opacity: 0.8;
 	stroke: #000;
 	stroke-width: 3;
+	cursor: pointer;
 }
 
 .img-nearest {

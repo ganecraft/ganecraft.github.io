@@ -3,15 +3,26 @@ const rectClass = "mob-marker-rectangle";
 const svgNamespace = "http://www.w3.org/2000/svg";
 
 function createMarkers() {
-	console.log("createMarkers called");
 	if(typeof markers === 'undefined' || !Array.isArray(markers)) {
-		console.log("markers not array");
+		console.error("markers not array");
 		return;
 	}
 
 	const svgElement = document.getElementById('clickmap-svg');
 	if(!svgElement) {
-		console.log("svgElement does not exist");
+		console.error("svgElement does not exist");
+		return;
+	}
+
+	const infoBox = document.getElementById('info-box');
+	if(!infoBox) {
+		console.error("infoBox does not exist");
+		return;
+	}
+
+	const mapContainer = document.getElementById('map-container');
+	if(!mapContainer) {
+		console.error("mapContainer does not exist");
 		return;
 	}
 
@@ -39,15 +50,53 @@ function createMarkers() {
 		const titleElement = document.createElementNS(svgNamespace, 'title');
 		titleElement.innerHTML = marker.title;
 
+		/*
 		const hrefElement = document.createElementNS(svgNamespace, 'a');
 		hrefElement.setAttributeNS(null, 'href', marker.href);
 
 		// 'build' the marker and attach to the svg
 		clickableShapeElement.appendChild(titleElement);
 		hrefElement.appendChild(clickableShapeElement);
-		svgElement.appendChild(hrefElement);
+		svgElement.appendChild(hrefElement);*/
+
+
+		// 'build' the marker and attach to the svg
+		clickableShapeElement.appendChild(titleElement);
+		svgElement.appendChild(clickableShapeElement);
+
+		// thank you deepseek my beloved
+
+		clickableShapeElement.addEventListener('click', e => {
+			const svgRect = svgElement.getBoundingClientRect();
+			const shapeRect = clickableShapeElement.getBoundingClientRect();
+
+			// Calculate position for info box
+			const clickX = shapeRect.left - svgRect.left;
+			const clickY = shapeRect.top - svgRect.top;
+			// Position the info box
+			infoBox.style.left = `${clickX}px`;
+
+			// Determine if box should appear above or below
+			if (clickY > mapContainer.offsetHeight / 2) {
+				// Position above if clicked in lower half
+				infoBox.style.top = `${clickY - infoBox.offsetHeight - 10}px`;
+			} else {
+				// Position below if clicked in upper half
+				infoBox.style.top = `${clickY + shapeRect.height + 10}px`;
+		}
+
+		  infoBox.innerHTML = '<a href="' + marker.href + '">' + marker.title + '</a>';
+		  infoBox.style.display = 'block';
+		});
 	});
-	console.log("createMarkers end");
+
+
+	// Close info box when clicking elsewhere
+	document.addEventListener('click', e => {
+		if(!e.target.classList.contains('mob-marker-circle') && e.target !== infoBox) {
+			infoBox.style.display = 'none';
+		}
+	});
 }
 
 createMarkers();
