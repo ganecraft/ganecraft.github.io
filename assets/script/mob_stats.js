@@ -20,6 +20,7 @@ const getValue = (obj, property, defaultVal = statPlaceholder) => {
 	return obj[property];
 };
 const hlSpan = (val) => '<span class="' + statHighlightClass + '">' + val + '</span>';
+const customSpan = (val, spanClass) => '<span class="' + spanClass + '">' + val + '</span>';
 const statsLabel = (val) => '<h3><u>' + val + '</u>:</h3><br>';
 
 
@@ -111,7 +112,7 @@ function renderStats() {
 
 	let statsObj = typeof mobStats === 'undefined' || !isObject(mobStats) ? {} : mobStats;
 	let statsHTML = '';
-	statsHTML += '<h2>' + getValue(statsObj, 'mobName') + '</h2><br>';
+	statsHTML += '<h2 class="mob-name-stat">' + getValue(statsObj, 'mobName') + '</h2><br>';
 
 	// add links to location(s) if exists
 	if(typeof mobLoc === 'undefined' || !Array.isArray(mobLoc) || mobLoc.length < 1) {
@@ -124,7 +125,7 @@ function renderStats() {
 		statsHTML += '<p>Location: ' + hlSpan(mobLocContent) + '</p>';
 	}
 
-	statsHTML += '<p>Type: ' + hlSpan(getValue(statsObj, 'mobType')) + '</p>';
+	statsHTML += '<p>Type: ' + customSpan(getValue(statsObj, 'mobType'), statHighlightClass + " mob-type-stat") + '</p>';
 
 	statsHTML += statsLabel("Stats");
 	statsHTML += '<p>Health: ' + hlSpan(getValue(statsObj, 'health')) + '</p>';
