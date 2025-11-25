@@ -94,7 +94,7 @@ function renderOtherInfo() {
 		infoList += "<li>" + otherInfo[i] + "</li>";
 	}
 	
-	infoTableElement.innerHTML = '<tr><td><h3>Other</h3></td></tr><tr><td><ul>' + infoList + '</ul></td></tr>';
+	infoTableElement.innerHTML = '<tr><td><h3>Other</h3></td></tr><tr><td><ul class="mob-other-info">' + infoList + '</ul></td></tr>';
 	mainContentElement.appendChild(document.createElement('br'));
 	mainContentElement.appendChild(infoTableElement);
 }

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('/assets/fonts/Minecraft.otf');
+}
+
 .map-container {
   position: relative;
   width: 100%;
@@ -43,6 +48,11 @@
 .mob-type-stat {
 	font-family: "Motiva Sans",Twemoji,"Noto Sans",Helvetica,sans-serif;
 	font-weight: bold;
+}
+
+.mob-other-info {
+	font-family: Minecraft,"Motiva Sans",Twemoji,"Noto Sans",Helvetica,sans-serif;
+	font-size: 16px;
 }
 
 .img-nearest {
