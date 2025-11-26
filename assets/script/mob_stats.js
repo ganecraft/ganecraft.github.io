@@ -84,11 +84,15 @@ function renderOtherInfo() {
 		return;
 	}
 
+	let infoTableElement = document.createElement('table');
+
 	if(typeof otherInfo === 'undefined' || !Array.isArray(otherInfo) || otherInfo.length < 1) {
+		infoTableElement.innerHTML = '<tr><td><h3>Other</h3></td></tr><tr><td><ul class="mob-other-info"><li>No other information.</li></ul></td></tr>';
+		mainContentElement.appendChild(document.createElement('br'));
+		mainContentElement.appendChild(infoTableElement);
 		return;
 	}
 
-	let infoTableElement = document.createElement('table');
 	let infoList = "";
 	for(let i = 0; i < otherInfo.length; i++) {
 		infoList += "<li>" + otherInfo[i] + "</li>";
